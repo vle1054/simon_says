@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="simon_says" type="simon_says_node" name="simon_says_node" output="screen">
+
+  </node>
+
+</launch>

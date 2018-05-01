@@ -8,7 +8,7 @@ ros-kinetic
 
 Orbbec Astra Camera
 
-#Instructions
+# Instructions
                
 
 Clone into a ~/catkin_ws/src directory

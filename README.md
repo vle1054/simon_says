@@ -1,8 +1,10 @@
 # simon_says
 
-Developed using Thinkpad Laptop running Ubuntu 16.04
-                ros-kinetic
-                Orbbec Astra Camera
+Developed using 
+
+Thinkpad Laptop running Ubuntu 16.04
+ros-kinetic
+Orbbec Astra Camera
                
 
 Clone into a ~/catkin_ws/src directory

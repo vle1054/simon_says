@@ -3,7 +3,9 @@
 Developed using 
 
 Thinkpad Laptop running Ubuntu 16.04
+
 ros-kinetic
+
 Orbbec Astra Camera
                
 

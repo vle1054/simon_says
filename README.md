@@ -8,6 +8,8 @@ ros-kinetic
 
 Orbbec Astra Camera
 
+install espeak from apt-get
+
 # Instructions
                
 git clone https://github.com/vle1054/simon_says
